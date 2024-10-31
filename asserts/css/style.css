@@ -1,0 +1,15 @@
+div.jlwebcom_chatwsp{
+    position: fixed;
+    bottom: 50px;
+    right: 0px;
+}
+li.jlwebcom_chatwsp{
+    list-style: none;
+    border-radius: 50%;
+    margin: -20px 5px;
+}
+li.jlwebcom_chatwsp > a{
+}
+img.jlwebcom_chatwsp{
+    margin: 13px 14px!important;
+}

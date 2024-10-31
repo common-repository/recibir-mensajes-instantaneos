@@ -1,0 +1,9 @@
+{"domain":"jlwebcom-chatwsp",
+"locale_data":{"jlwebcom-chatwsp":{"":{"domain":"jlwebcom-chatwsp",
+"plural-forms":"nplurals=2; plural=n != 1;",
+"lang":"es"},
+"Chat de WhatsApp":["Chat de WhatsApp"],
+"Teléfono":["Teléfono"],
+"Mensaje":["Mensaje"],
+"Guardar":["Guardar"]
+}}}
